@@ -1,12 +1,14 @@
 import React from 'react'
 import Navbar from './components/Navbar'
 import Hero from './sections/Hero'
+import TechnicalProficiency from './sections/TechnicalProfiency'
 
 const App = () => {
   return (
-    <div>
-      <Navbar/>
-      {/*<Hero/>*/}
+    <div className='mb-80'>
+      <Navbar />
+      <Hero />
+      <TechnicalProficiency />
     </div>
   )
 }
