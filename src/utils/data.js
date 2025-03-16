@@ -33,10 +33,10 @@ import {
   ];
   
   export const STATS = [
-    { id: "01", count: "10", label: `Years of \nExperience` },
-    { id: "02", count: "12", label: `Certifications \nEarned` },
-    { id: "03", count: "43", label: `Projects \nCompleted` },
-    { id: "04", count: "37+", label: `Happly \nClients` },
+    { id: "01", count: "3", label: `Years of \nExperience` },
+    { id: "02", count: "8", label: `Certifications \nEarned` },
+    { id: "03", count: "45", label: `Projects \nCompleted` },
+    { id: "04", count: "10+", label: `Happly \nClients` },
   ];
   
   export const SKILL_TABS = [
@@ -61,7 +61,7 @@ import {
       id: "02",
       icon: FaHtml5,
       skill: "HTML",
-      progress: 99,
+      progress: 100,
       type: "frontend",
       description:
         "Expert in structuring web content with semantic HTML, ensuring accessibility and SEO optimization. Skilled at creating clean and maintainable markup for modern web applications.",
@@ -70,7 +70,7 @@ import {
       id: "03",
       icon: FaCss3,
       skill: "CSS",
-      progress: 65,
+      progress: 70,
       type: "frontend",
       description:
         "Proficient in designing visually appealing and responsive layouts using CSS and pre-processors like SCSS. Experienced in implementing animations, transitions, and custom designs with precision.",
@@ -79,7 +79,7 @@ import {
       id: "04",
       icon: BiLogoJavascript,
       skill: "JavaScript",
-      progress: 88,
+      progress: 65,
       type: "frontend",
       description:
         "Skilled in writing clean, modular, and efficient JavaScript code to create interactive web functionalities. Well-versed in ES6+ features, DOM manipulation, and asynchronous programming",
@@ -89,7 +89,7 @@ import {
       id: "05",
       icon: FaNodeJs,
       skill: "Node.js",
-      progress: 95,
+      progress: 84,
       type: "backend",
       description:
         "Skilled in building scalable and high-performance server-side applications using Node.js. Experienced in handling asynchronous operations, event-driven programming, and optimizing API performance.",
@@ -98,7 +98,7 @@ import {
       id: "06",
       icon: SiExpress,
       skill: "Express.js",
-      progress: 98,
+      progress: 88,
       type: "backend",
       description:
         "Proficient in developing RESTful APIs and middleware using Express.js. Focused on creating secure, efficient, and maintainable backend architectures for web applications.",
@@ -107,7 +107,7 @@ import {
       id: "07",
       icon: SiMongodb,
       skill: "MongoDB",
-      progress: 75,
+      progress: 64,
       type: "backend",
       description:
         "Experienced in designing and managing NoSQL databases using MongoDB. Skilled in schema design, aggregation pipelines, and optimizing queries for performance and scalability.",
@@ -116,7 +116,7 @@ import {
       id: "08",
       icon: SiMysql,
       skill: "SQL",
-      progress: 90,
+      progress: 85,
       type: "backend",
       description:
         "Proficient in working with relational databases using SQL. Experienced in writing complex queries, optimizing database performance, and ensuring data integrity through normalization and indexing.",
@@ -126,7 +126,7 @@ import {
       id: "09",
       icon: FaGitAlt,
       skill: "Git & GitHub",
-      progress: 75,
+      progress: 71,
       type: "tools",
       description:
         "Experienced in version control and collaborative development using Git and GitHub. Proficient in branching strategies, pull requests, and maintaining clean commit histories.",
@@ -135,7 +135,7 @@ import {
       id: "10",
       icon: VscVscode,
       skill: "Visual Studio Code",
-      progress: 95,
+      progress: 100,
       type: "tools",
       description:
         "Well-versed in using Visual Studio Code with custom extensions and debugging tools for a smooth development workflow. Optimized for productivity with shortcuts and automation.",
@@ -144,7 +144,7 @@ import {
       id: "11",
       icon: SiWebpack,
       skill: "Webpack",
-      progress: 70,
+      progress: 67,
       type: "tools",
       description:
         "Skilled in optimizing frontend performance with Webpack, including asset bundling and code splitting. Ensures efficient loading times and modular code structures.",
@@ -154,7 +154,7 @@ import {
       id: "13",
       icon: VscCommentUnresolved,
       skill: "Problem-Solving",
-      progress: 85,
+      progress: 82,
       type: "soft-skills",
       description:
         "Strong analytical skills to identify and resolve technical challenges efficiently. Approaches problems with a structured and logical mindset to deliver effective solutions.",
@@ -163,7 +163,7 @@ import {
       id: "14",
       icon: MdGroups3,
       skill: "Collaboration",
-      progress: 70,
+      progress: 62,
       type: "soft-skills",
       description:
         "Experienced in working within teams, contributing ideas, and integrating feedback. Effective communication ensures smooth project execution and shared success.",
@@ -172,7 +172,7 @@ import {
       id: "15",
       icon: VscTerminalPowershell,
       skill: "Attention to Detail",
-      progress: 83,
+      progress: 81,
       type: "soft-skills",
       description:
         "Meticulous in writing clean, maintainable code and ensuring UI/UX consistency. Focused on delivering high-quality work with precision and thoroughness.",
