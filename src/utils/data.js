@@ -191,9 +191,9 @@ import {
       { id: "05", label: "Dribble", icon: FaDribbble, link: "#" },
     ],
   
-    email: "alex.doe@timetoprogram.com",
-    phone: "+1 (123) 456-7890",
-    website: "https://timetoprogram.com",
+  email: "kimi93.com@gmail.com",
+  phone: "+62 82284586491",
+  website: "https://timetocode.com",
   };
   
   export const PROJECTS = [
