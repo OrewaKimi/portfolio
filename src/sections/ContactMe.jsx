@@ -1,6 +1,6 @@
 import React from "react";
 import { ABOUT_ME } from "../utils/data";
-import ContactInfoCard from "../components/ContactInfoCard";
+import ContactInfoCrad from "../components/ContactInfoCard";
 import { IoMdMail } from "react-icons/io";
 import { IoPhonePortraitOutline } from "react-icons/io5";
 import { MdOutlineWeb } from "react-icons/md";
@@ -21,12 +21,12 @@ const ContactMe = () => {
 
         <div className="grid grid-cols-1 md:grid-cols-2 md:gap-16 mt-16">
           <div>
-            <ContactInfoCard icon={<IoMdMail />} text={ABOUT_ME.email} />
-            <ContactInfoCard
+            <ContactInfoCrad icon={<IoMdMail />} text={ABOUT_ME.email} />
+            <ContactInfoCrad
               icon={<IoPhonePortraitOutline />}
               text={ABOUT_ME.phone}
             />
-            <ContactInfoCard icon={<MdOutlineWeb />} text={ABOUT_ME.website} />
+            <ContactInfoCrad icon={<MdOutlineWeb />} text={ABOUT_ME.website} />
           </div>
 
           <div>
