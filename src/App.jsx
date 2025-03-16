@@ -4,6 +4,7 @@ import Hero from './sections/Hero'
 import TechnicalProficiency from './sections/TechnicalProfiency'
 import AboutMe from './sections/AboutMe'
 import MyProjects from './sections/MyProjects'
+import ContactMe from './sections/ContactMe.Jsx'
 
 const App = () => {
   return (
@@ -13,6 +14,7 @@ const App = () => {
       <TechnicalProficiency />
       <AboutMe />
       <MyProjects />
+      <ContactMe />
     </div>
   )
 }
