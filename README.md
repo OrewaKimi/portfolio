@@ -1,8 +1,5 @@
-
-https://1drv.ms/i/c/349dfa2c155897ee/ETwWjS2D7h1GjEf9OkqgcAwBR7_TziG47TaYgh908Q-R3A
-
+![Untitled video - Made with Clipchamp](https://github.com/user-attachments/assets/74538238-6e65-408e-909b-0b604b10e19d)
 # 🚀 Portfolio  
-
 Welcome to my portfolio repository! This project showcases my work, skills, and experiences as a developer.  
 
 ## 📖 Table of Contents  
