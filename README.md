@@ -66,6 +66,27 @@ Follow these steps to **run the project locally**:
 
 ### 1️⃣ Clone the Repository  
 
-```bash
-git clone https://github.com/OrewaKimi/portfolio.git
-cd portfolio
+**git clone https://github.com/OrewaKimi/portfolio.git**
+**cd portfolio**
+
+### 2️⃣ Install Dependencies
+**npm install**
+
+### 3️⃣ Run the Development Server
+**npm run dev**
+
+### 4️⃣ Open in Your Browser
+**Go to localhost to view the project live**
+
+### 5️⃣ Build for Production
+**npm run build**
+
+### 6️⃣ Deploy to Vercel / Netlify
+**✅ Deploy to Vercel**
+**npm i -g vercel**
+**vercel**
+
+**✅ Deploy to Netlify**
+**npm i -g netlify-cli**
+**netlify deploy**
+
