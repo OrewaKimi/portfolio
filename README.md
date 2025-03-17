@@ -1,7 +1,4 @@
-<video autoplay loop muted playsinline class="fullscreen-video">
-  <source src="https://github.com/user-attachments/assets/74538238-6e65-408e-909b-0b604b10e19d.mp4" type="video/mp4">
-</video>
-
+![Screenshot 2025-03-17 131452](https://github.com/user-attachments/assets/f684c27f-20de-4643-999a-532ba2f1fa3a)
 # 🚀 Portfolio  
 Welcome to my portfolio repository! This project showcases my work, skills, and experiences as a developer.  
 
