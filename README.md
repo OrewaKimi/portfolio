@@ -67,6 +67,7 @@ Follow these steps to **run the project locally**:
 ### 1️⃣ Clone the Repository  
 
 **git clone https://github.com/OrewaKimi/portfolio.git**
+
 **cd portfolio**
 
 ### 2️⃣ Install Dependencies
