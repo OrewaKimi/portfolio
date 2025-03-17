@@ -1,3 +1,6 @@
+
+![image](https://github.com/user-attachments/assets/ed316ea7-7f2c-469a-b284-e80600597d01)
+
 # 🚀 Portfolio  
 
 Welcome to my portfolio repository! This project showcases my work, skills, and experiences as a developer.  
