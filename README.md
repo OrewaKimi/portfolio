@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/74538238-6e65-408e-909b-0b604b10e19d" width="70%" height="auto">
+<img src="https://github.com/user-attachments/assets/74538238-6e65-408e-909b-0b604b10e19d" width="100%" height="auto">
 
 # 🚀 Portfolio  
 Welcome to my portfolio repository! This project showcases my work, skills, and experiences as a developer.  
