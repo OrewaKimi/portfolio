@@ -1,4 +1,19 @@
 ![Untitled video - Made with Clipchamp](https://github.com/user-attachments/assets/74538238-6e65-408e-909b-0b604b10e19d)
+
+<style>
+  .fullscreen-gif {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    z-index: -1;
+  }
+</style>
+
+<img src="https://github.com/user-attachments/assets/74538238-6e65-408e-909b-0b604b10e19d" alt="Background GIF" class="fullscreen-gif">
+
 # 🚀 Portfolio  
 Welcome to my portfolio repository! This project showcases my work, skills, and experiences as a developer.  
 
@@ -69,4 +84,3 @@ Follow these steps to **run the project locally**:
 ```bash
 git clone https://github.com/OrewaKimi/portfolio.git
 cd portfolio
-
