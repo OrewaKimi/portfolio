@@ -1,5 +1,5 @@
 
-![image](https://github.com/user-attachments/assets/ed316ea7-7f2c-469a-b284-e80600597d01)
+https://1drv.ms/i/c/349dfa2c155897ee/ETwWjS2D7h1GjEf9OkqgcAwBR7_TziG47TaYgh908Q-R3A
 
 # 🚀 Portfolio  
 
