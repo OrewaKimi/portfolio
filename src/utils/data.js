@@ -34,8 +34,8 @@ import {
   
   export const STATS = [
     { id: "01", count: "3", label: `Years of \nExperience` },
-    { id: "02", count: "8", label: `Certifications \nEarned` },
-    { id: "03", count: "45", label: `Projects \nCompleted` },
+    { id: "02", count: "7", label: `Certifications \nEarned` },
+    { id: "03", count: "47", label: `Projects \nCompleted` },
     { id: "04", count: "10+", label: `Happly \nClients` },
   ];
   
